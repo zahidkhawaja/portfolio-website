@@ -804,8 +804,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 1500px auto;
-			width: 4500px;
+			/* background-size: 1500px auto;
+			width: 4500px; */
 		} }
 
 /* Normal */
@@ -886,8 +886,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
-			width: 2250px;
+			/* background-size: 750px auto;
+			width: 2250px; */
 		} }
 
 /* Mobile */
@@ -972,8 +972,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
-			width: 900px;
+			/* background-size: 300px auto;
+			width: 900px; */
 		}
 
 	/* Header */
@@ -1070,8 +1070,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
-			width: 1237.5px;
+			/* background-size: auto;
+			width: 1237.5px; */
 		}
 
 	/* Header */
